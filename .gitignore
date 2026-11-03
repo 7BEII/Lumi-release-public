@@ -1,0 +1,11 @@
+# Installers belong in GitHub Releases, not Git history.
+*.exe
+*.zip
+*.pem
+*.key
+.env
+.env.*
+*.sqlite3*
+*.db
+*.log
+__pycache__/
